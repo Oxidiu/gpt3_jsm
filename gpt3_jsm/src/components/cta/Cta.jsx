@@ -1,6 +1,6 @@
 import React from 'react'
 import "./cta.css"
-const Cta = () => {
+const CTA = () => {
   return (
     <div>
       <h1>Cta</h1>
@@ -8,4 +8,4 @@ const Cta = () => {
   )
 }
 import "./cta.css"
-export default Cta
+export default CTA
