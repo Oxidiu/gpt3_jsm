@@ -3,9 +3,8 @@ import "./cta.css"
 const CTA = () => {
   return (
     <div>
-      <h1>Cta</h1>
+      Cta
     </div>
   )
 }
-import "./cta.css"
 export default CTA
